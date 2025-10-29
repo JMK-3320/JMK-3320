@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=00C0FF&center=true&vCenter=true&width=650&lines=Hey+There!+👋+I'm+Jadhav+Manojkumar;CSIT+Engineer+%7C+Full+Stack+Developer;AI+%26+ML+Enthusiast+%7C+Cybersecurity+Learner;Let's+Build+Something+Amazing+Together!🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=28&duration=4000&pause=1000&color=00C0FF&center=true&vCenter=true&width=650&lines=Hey+There!+👋+I'm+JADHAV+MANOJ KUMAR;CSIT+Engineer+%7C+Full+Stack+Developer;AI+%7C+ML+Enthusiast+%7C+Cybersecurity+Learner;Let's+Build+Something+Amazing+Together!🚀" alt="Typing Animation" />
 </div>
 
 ---
